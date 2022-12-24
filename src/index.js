@@ -9,7 +9,7 @@ import Team, { teamLoader } from "./routes/team";
 
 const router = createHashRouter([
   {
-    path: "/",
+    path: "/about",
     element: <Root />,
     loader: rootLoader,
     children: [
