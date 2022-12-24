@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kmanasi1821/Food-app/static/css/main.a63999ac.css",
+    "main.js": "/kmanasi1821/Food-app/static/js/main.15df91de.js",
+    "static/media/bg_banner.png": "/kmanasi1821/Food-app/static/media/bg_banner.6621ac3cb1d0c9f7656f.png",
+    "static/media/1000_F_18669964_Txz4BS0OErzj9v9DHM3N51d8yFVa85dR-removebg-preview.png": "/kmanasi1821/Food-app/static/media/1000_F_18669964_Txz4BS0OErzj9v9DHM3N51d8yFVa85dR-removebg-preview.2d8690c721564955376d.png",
+    "static/media/Chicken.jpeg": "/kmanasi1821/Food-app/static/media/Chicken.721cc1a90e294c83258a.jpeg",
+    "static/media/thincurst.jfif": "/kmanasi1821/Food-app/static/media/thincurst.d8ba615d52e110714e4e.jfif",
+    "static/media/Veg_cheease.jpeg": "/kmanasi1821/Food-app/static/media/Veg_cheease.45c4ca29b469e538f763.jpeg",
+    "static/media/tomato_pizza.jpg": "/kmanasi1821/Food-app/static/media/tomato_pizza.29ad096f76d8df65a60d.jpg",
+    "static/media/margerita.jpg": "/kmanasi1821/Food-app/static/media/margerita.fa16e63b48c70f7dc78c.jpg",
+    "static/media/Cheese_bast.jpg": "/kmanasi1821/Food-app/static/media/Cheese_bast.b43411acc07883be4a2f.jpg",
+    "index.html": "/kmanasi1821/Food-app/index.html",
+    "main.a63999ac.css.map": "/kmanasi1821/Food-app/static/css/main.a63999ac.css.map",
+    "main.15df91de.js.map": "/kmanasi1821/Food-app/static/js/main.15df91de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63999ac.css",
+    "static/js/main.15df91de.js"
+  ]
+}
