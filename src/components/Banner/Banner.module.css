@@ -1,0 +1,47 @@
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  padding-left: 6rem;
+  padding-top: 5rem;
+}
+.banner_heading {
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+.btn {
+  font-size: 1rem;
+  letter-spacing: 0.5rem;
+  padding: 1rem;
+  margin: 0 0 5rem 12rem;
+  color: white;
+  background-color: #e31837;
+  border: none;
+  font-weight: bold;
+  height: 4rem;
+  border-radius: 2rem;
+}
+.btn:hover {
+  cursor: pointer;
+  color: #e31837;
+  background-color: white;
+}
+/* Mobile View */
+.mobileViewBannerImg {
+  width: 100%;
+}
+.mobileViewHeading {
+  padding-left: 3rem;
+}
+.mobileViewBtn {
+  font-size: 1rem;
+  letter-spacing: 0.5rem;
+  padding: 0.5rem;
+  margin: 0 0 2rem 6rem;
+  color: white;
+  background-color: #e31837;
+  border: none;
+  font-weight: bold;
+}

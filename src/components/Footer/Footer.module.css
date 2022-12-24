@@ -1,0 +1,13 @@
+.social_icon {
+  padding-top: 5rem;
+  cursor: pointer;
+}
+.footer_icon:hover {
+  color: goldenrod;
+  transform: translateX(5px);
+  transition: all 5ms ease;
+}
+.footer_icon {
+  padding-right: 1rem;
+  font-size: 2rem;
+}
